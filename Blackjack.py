@@ -23,6 +23,7 @@ class Game:
 		print('Your second card: ' + card_class.format_card(game1.users_hand[-1]))
 		dealer1.deal_card('dealer')
 
+		
 		print('---------------------------------------')
 		print("Dealer's hand: " + dealer1.format_hand(game1.dealers_hand).split(' ')[0] + ' [hidden]')
 		print('Your hand: ' + dealer1.format_hand(game1.users_hand))
