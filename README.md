@@ -1,4 +1,5 @@
 ## Blackjack Terminal Game
+![ezgif-3-286e1fe193](https://github.com/seddboi/BlackJack-Python-Game/assets/75237411/1703f7c7-4dd4-4ea9-bb29-0dad4b50f395)
 
 ## Introduction
 
